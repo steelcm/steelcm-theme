@@ -1,0 +1,35 @@
+{
+    "name": "steelcm",
+    "description": "The personal blogging theme for steelcm.com",
+    "demo": "https://steelcm.com",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Christopher Steel",
+        "email": "chris@steelcm.com",
+        "url": "https://steelcm.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+	"steelcm"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/steelcm/steelcm-theme.git"
+    }
+}
